@@ -41,7 +41,9 @@
     columns: (150mm, 30mm),
     inset: (left: 0mm, right: 10mm, top: 5mm, bottom: 5mm),
     [#text(size: 25pt, weight: "regular",)[#title]],
-    align(horizon+ right)[#text(size:9pt)[build with Typst]]
+    align(horizon+ right)[#text(size:9pt)[build with Typst]],
+    [#text(size: 20pt, weight: "regular",)[#sub]],
+    none,
   )
 // -------------------------------Overview-------------------------------
   grid(
