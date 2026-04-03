@@ -61,7 +61,7 @@
       inset: (left: 0mm, right: 0mm, top: 0mm, bottom: 5mm),
       line(length: 5%, stroke: (paint: black, thickness: 3pt, cap: "round")), align(right)[#line(length: 5%, stroke: (paint: black, thickness: 3pt, cap: "round"))],
       text(weight: "bold", size: 12pt)[Cut off],  text(weight: "bold", size: 12pt)[AFF],
-      text()[#cutoff],                text()[#grade],
+      text()[#cutoff],                text()[#aff],
       text(weight: "bold", size: 12pt)[Class],  text(weight: "bold",  size: 12pt)[grade],
       text()[#class],                text()[#grade],
       text(weight: "bold", size: 12pt)[Period],  text(weight: "bold", size: 12pt)[ID],
